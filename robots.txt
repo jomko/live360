@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://live360-ochre.vercel.app/sitemap.xml
